@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction-PySpark
 
-## Build a PySpark ML model to predict customers exit(1) or not(0) by RandomForestClassifier.
+###### Build a PySpark ML model to predict customers exit(1) or not(0) by RandomForestClassifier.
 
 
 Load your data, convert the columns with string type to integer representations to train the model. _StringIndexer, OneHotEncoder_
